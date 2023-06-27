@@ -1,0 +1,15 @@
+Features
+
+Home
+The Home section is the landing page of the application. It provides an overview of the app's features and acts as the starting point for users.
+
+Product
+Clicking on the Product section loads product data from the API and displays it in card format. Each card includes information such as price, category, and an "Add to Cart" button.
+
+Add to Cart
+When a user clicks the "Add to Cart" button on a product card, the selected item is added to the cart. The Add to Cart section displays all the items that have been added, including their details. Each cart item has a "Remove Item" button that allows the user to remove the item from the cart.
+
+API
+The application fetches product data from the following API endpoint:
+
+API: https://fakestoreapi.com/products
